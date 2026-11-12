@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Balance",
+    "description": "Sidebar balance panel: per-provider balance plus token and cost statistics for the current session, today, the last 7 days, the last 30 days, and all history, with custom unit prices, peak/valley and long-context price tiers, and manual balances."
+  }
+}

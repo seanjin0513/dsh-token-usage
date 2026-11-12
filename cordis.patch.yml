@@ -1,0 +1,8 @@
+# dsh-token-usage bundle patch layer.
+#
+# Installs the Host half that computes token/cost statistics from the durable
+# Session log and serves the panel's JSON API. The Client half (client.js)
+# renders the sidebar entry and the balance panel.
+- insert:
+    - id: token-usage
+      name: 'dsh-token-usage'
